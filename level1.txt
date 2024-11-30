@@ -1,0 +1,5 @@
+0 500 50 50 tile
+800 600 50 50 tile
+100 500 50 50 transparent
+1500 200 50 50 transparent
+
