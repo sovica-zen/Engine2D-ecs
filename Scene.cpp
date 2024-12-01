@@ -4,7 +4,7 @@
 Scene::Scene(){}
 Scene::Scene(GameEngine* gameEngine) {}
 
-// calls derived scene's update() a bunch of times
+// calls derived scene's update() a certain number of times
 void Scene::simulate(size_t frame) {
 	update();
 }
